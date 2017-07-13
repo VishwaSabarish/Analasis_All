@@ -1,0 +1,16 @@
+Known but Name Unknown Concepts :
+---------------------------------------
+
+https://en.wikipedia.org/wiki/Systems_development_life_cycle
+
+https://en.wikipedia.org/wiki/Software_prototyping
+
+https://en.wikipedia.org/wiki/Rapid_application_development
+
+https://en.wikipedia.org/wiki/Waterfall_model
+
+https://en.wikipedia.org/wiki/Extreme_programming
+
+https://en.wikipedia.org/wiki/Joint_application_design
+
+https://en.wikipedia.org/wiki/Dynamic_systems_development_method
